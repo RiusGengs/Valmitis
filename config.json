@@ -1,0 +1,9 @@
+{
+	"ip":"Valmitis.aternos.me",
+	"port": 56365,
+	"name": "Valmitis",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register valmitis",
+	"login-cmd":"/login valmitis"
+}
